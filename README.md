@@ -14,6 +14,7 @@ The challenge is to validate such electronic equipment for vulnerability assessm
 ![image](https://github.com/poojalh18/Smart-India-Hackathon-Files-and-ppt/assets/132671714/9af4cb9c-9fcf-43c9-99d5-5ba1b6b0a509)
 
 Modern IC designs often involve third-party intellectual property (IP) cores because of the high design complexity, the restriction of time-to-market and the cost constraint of final products. One of the challenges faced by the IP reuse-based design methodology is the untrustworthiness of the outsourced IPs. It is convinced that there are opportunities in which the IP cores contain malicious extra logic, namely Hardware Trojan (HT). HTs can cause the circuit failure or leak confidential information, which raise serious concerns about trustworthiness of ICs used in Internet of Things (IoT) and consumer electronics (CE) , as well as mission critical applications.
+
 ![image](https://github.com/poojalh18/Smart-India-Hackathon-Files-and-ppt/assets/132671714/b1b24aef-6c8a-4d8a-949f-5f34bd8e22d2)
 
 
